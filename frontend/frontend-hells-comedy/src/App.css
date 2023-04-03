@@ -1,1 +1,9 @@
+*{
+    margin: 0px;
+    text-decoration: none;
+}
 
+.App{
+    background-image: url('./asserts/main-bg.gif');
+    height: 100%;
+}
